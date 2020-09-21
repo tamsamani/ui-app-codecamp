@@ -1,7 +1,7 @@
 {
   "name": "ui-app",
   "version": "0.1.0",
-  "author": "tamsamani <tamsmoha@gmail.com>",
+  "author": "tamsamani",
   "main": "index.js",
   "license": "MIT"
 }
